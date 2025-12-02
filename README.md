@@ -249,7 +249,7 @@ All task routes require the header:
 
 
 
-#### PUT /api/tasks/:id
+#### PUT /api/updatetask/:id
 
 - **Description:** Update an existing task  
 - **Request Body:**
@@ -274,7 +274,7 @@ All task routes require the header:
 
 
 
-#### DELETE /api/tasks/:id
+#### DELETE /api/deletetask/:id
 
 - **Description:** Delete a task  
 - **Response:**
